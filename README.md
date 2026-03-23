@@ -34,14 +34,14 @@ The dataset contains user_level data with the following features.
 - GitHub- Project documentation and version control
 
 📌📌📌KEY INSIGHTS
--Higher daily phone usage is associated with reduced productivity
--Increased social media usage correlates with higher stress levels
--Users with adequate sleep tend to have higher productivity scores
--Excessive weekend screen time highlights imbalance in usage behavior
--Lifestyle habits (sleep and caffeine) influence both stress and productivity
+     -Higher daily phone usage is associated with reduced productivity
+     -Increased social media usage correlates with higher stress levels
+     -Users with adequate sleep tend to have higher productivity scores
+     -Excessive weekend screen time highlights imbalance in usage behavior
+     -Lifestyle habits (sleep and caffeine) influence both stress and productivity
 
 📌📌 RECOMMENDATIONS
--Reduce excessive screen time to improve productivity
--Limit social media usage, especially during work hours
--Maintain consistent and sufficient sleep patterns
--Monitor caffeine intake to manage stress effectively
+     -Reduce excessive screen time to improve productivity
+     -Limit social media usage, especially during work hours
+     -Maintain consistent and sufficient sleep patterns
+     -Monitor caffeine intake to manage stress effectively
